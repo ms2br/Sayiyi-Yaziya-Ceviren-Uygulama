@@ -1,0 +1,7 @@
+D:\C#\ConsoleApp1\Sayiyi Yaziya Ceviren Uygulama\Sayiyi Yaziya Ceviren Uygulama\bin\Debug\Sayiyi Yaziya Ceviren Uygulama.exe.config
+D:\C#\ConsoleApp1\Sayiyi Yaziya Ceviren Uygulama\Sayiyi Yaziya Ceviren Uygulama\bin\Debug\Sayiyi Yaziya Ceviren Uygulama.exe
+D:\C#\ConsoleApp1\Sayiyi Yaziya Ceviren Uygulama\Sayiyi Yaziya Ceviren Uygulama\bin\Debug\Sayiyi Yaziya Ceviren Uygulama.pdb
+D:\C#\ConsoleApp1\Sayiyi Yaziya Ceviren Uygulama\Sayiyi Yaziya Ceviren Uygulama\obj\Debug\Sayiyi Yaziya Ceviren Uygulama.csproj.AssemblyReference.cache
+D:\C#\ConsoleApp1\Sayiyi Yaziya Ceviren Uygulama\Sayiyi Yaziya Ceviren Uygulama\obj\Debug\Sayiyi Yaziya Ceviren Uygulama.csproj.CoreCompileInputs.cache
+D:\C#\ConsoleApp1\Sayiyi Yaziya Ceviren Uygulama\Sayiyi Yaziya Ceviren Uygulama\obj\Debug\Sayiyi Yaziya Ceviren Uygulama.exe
+D:\C#\ConsoleApp1\Sayiyi Yaziya Ceviren Uygulama\Sayiyi Yaziya Ceviren Uygulama\obj\Debug\Sayiyi Yaziya Ceviren Uygulama.pdb
